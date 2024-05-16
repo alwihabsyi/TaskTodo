@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TaskTodo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="account">Account</string>
+    <string name="gallery">Gallery</string>
+    <string name="task">Task</string>
+    <string name="todo">Todo</string>
+    <string name="see_all">See all</string>
+    <string name="btn_expand">btn_expand</string>
+    <string name="in_progress">In Progress</string>
+    <string name="done">Done</string>
+    <string name="create_task">Create Task</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="due_date">Due Date</string>
+    <string name="file">File</string>
+    <string name="create">Create</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="add_gallery">Add Gallery</string>
+    <string name="logout">Logout</string>
+</resources>

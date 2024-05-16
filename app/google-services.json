@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520837479922",
+    "project_id": "tasktodo-acd27",
+    "storage_bucket": "tasktodo-acd27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520837479922:android:cecd96776eb70d4601bf6b",
+        "android_client_info": {
+          "package_name": "com.alwihbsyi.tasktodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAebiqrJMSH5rRxAytMzp2eiLjrp96d1VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
